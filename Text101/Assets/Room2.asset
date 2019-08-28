@@ -10,15 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 7e05a60c5adbe4aaaac5264b855802bb, type: 3}
-  m_Name: StartingState
+  m_Name: Room2
   m_EditorClassIdentifier: 
-  storyText: 'It is dark, you cannot see clearly. There is a quite ticking noise nearby
-    that you have been trying to locate for some time.
-
-
-    1) Move towards the noise
-
-    2) Move away from the noise'
+  storyText: OK... this looks like room 2
   nextStates:
   - {fileID: 11400000, guid: cf40361abbfc24a85b32a4d16ca799d9, type: 2}
-  - {fileID: 11400000, guid: 5587d0500f6cd40ffa2f02f5a4c3b3c1, type: 2}
+  - {fileID: 11400000, guid: 6a21b647927d34f308eb4f72539185bd, type: 2}
