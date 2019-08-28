@@ -17,6 +17,11 @@ MonoBehaviour:
     Be careful. Choose your own path.
 
 
-    At each stage you''ll be asked to press a key (i.e. 1 or 2) to choose your path.'
+    At each stage press 1 or 2 to choose your path.
+
+    At any point press q to quit.
+
+
+    1. Begin'
   nextStates:
   - {fileID: 11400000, guid: 6a21b647927d34f308eb4f72539185bd, type: 2}

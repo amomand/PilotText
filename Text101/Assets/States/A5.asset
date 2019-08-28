@@ -12,5 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e05a60c5adbe4aaaac5264b855802bb, type: 3}
   m_Name: A5
   m_EditorClassIdentifier: 
-  storyText: 
-  nextStates: []
+  storyText: 'A searing pain tears thgough your chest and you crumple to the gorund.
+    The last thing you hear are footsteps walking away...
+
+
+    You have died.
+
+    To try again press 1'
+  nextStates:
+  - {fileID: 11400000, guid: 6a21b647927d34f308eb4f72539185bd, type: 2}

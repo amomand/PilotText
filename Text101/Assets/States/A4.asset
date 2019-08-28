@@ -12,5 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e05a60c5adbe4aaaac5264b855802bb, type: 3}
   m_Name: A4
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: 'Success! you made it out of the boiler room.
+
+
+    You win'
   nextStates: []

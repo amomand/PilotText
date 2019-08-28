@@ -18,7 +18,7 @@ MonoBehaviour:
 
     1. Move towards the noise
 
-    22 Move away from the noise'
+    2. Move away from the noise'
   nextStates:
   - {fileID: 11400000, guid: 63a21b3673e354689a3785c23e8efebe, type: 2}
   - {fileID: 11400000, guid: a411b9e7606ca446ebef6058438eca5c, type: 2}
