@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e05a60c5adbe4aaaac5264b855802bb, type: 3}
+  m_Name: A3
+  m_EditorClassIdentifier: 
+  storyText: 'Your back is against a wall. There does not appear to be anywhere else
+    to go.
+
+
+    Wait here
+
+    Move back towards the noise'
+  nextStates:
+  - {fileID: 11400000, guid: c20093b2b325c4757969e1023cc31ab2, type: 2}
+  - {fileID: 11400000, guid: 63a21b3673e354689a3785c23e8efebe, type: 2}
