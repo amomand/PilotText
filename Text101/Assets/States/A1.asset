@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e05a60c5adbe4aaaac5264b855802bb, type: 3}
   m_Name: A1
   m_EditorClassIdentifier: 
-  storyText: 'It is dark, you cannot see clearly. There is a quite ticking noise nearby
+  storyText: 'It is dark, you cannot see clearly. There is a quiet ticking noise nearby
     that you have been trying to locate for some time.
 
 
