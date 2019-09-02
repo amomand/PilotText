@@ -12,10 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7e05a60c5adbe4aaaac5264b855802bb, type: 3}
   m_Name: A2
   m_EditorClassIdentifier: 
-  storyText: 'As you move towards the noise you see a flame flick into life. It''s
-    a pilot light. You are in a boiler room. The boiler roars to life. As you watch
-    the boiler walls begin to glow. In the gloom you can see a door. There is also
-    a switch marked to set the boiler to Standby.
+  storyText: 'As you move towards the noise you see a flame flick into life. You are
+    in an old boiler room. The boiler roars to life. As you watch the boiler walls
+    begin to glow. You imagine they are begining to swell...
+
+    In the gloom you can see a door. There is also a switch marked to set the boiler
+    to Standby.
 
 
     1. Go through the door
